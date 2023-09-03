@@ -29,8 +29,11 @@ To run the Emotion Detection System locally, follow these steps:
 
 2. Install the required dependencies
     
-   ``` cd emotion-detection
-   pip install -r requirements.txt ```
+   ``` 
+   cd emotion-detection
+   pip install -r requirements.txt 
+   
+   ```
 
 3. Run the application
    
