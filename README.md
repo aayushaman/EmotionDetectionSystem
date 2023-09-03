@@ -9,7 +9,7 @@ Welcome to the Emotion Detection System Project! This project aims to detect and
 ![Emotion Detection](emotion_detection.png)
 
 ## Features
-- Text, audio, and image emotion detection.
+- Image emotion detection.
 - Support for multiple emotion categories (e.g., happy, sad, angry, neutral).
 - Easy-to-use API for integrating with other applications.
 - Pre-trained models for quick start.
