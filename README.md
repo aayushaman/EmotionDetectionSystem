@@ -38,6 +38,6 @@ To run the Emotion Detection System locally, follow these steps:
 3. Run the application
    
    ```
-      python app.py
+    python app.py
 
    ```
