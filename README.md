@@ -16,7 +16,7 @@ Welcome to the Emotion Detection System Project! This project aims to detect and
 ## Demo
 Check out our [live demo](https://example.com/emotion-detection-demo) to see the Emotion Detection System in action.
 
-## Installation
+## Installation and Execution
 To run the Emotion Detection System locally, follow these steps:
 
 1. Clone the repository:
