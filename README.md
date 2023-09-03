@@ -6,8 +6,6 @@ An Emotion Detection System utilizing deep learning for real-time emotion recogn
 ## Introduction
 Welcome to the Emotion Detection System Project! This project aims to detect and classify human emotions from text, audio, or image data using machine learning and deep learning techniques. Understanding emotions can have various applications, from improving customer service to mental health monitoring.
 
-![Emotion Detection](emotion_detection.png)
-
 ## Features
 - Image emotion detection.
 - Support for multiple emotion categories (e.g., happy, sad, angry, neutral).
